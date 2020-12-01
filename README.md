@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Instagram**
 
-- 💬 Ask me about **#Web Developement #and #Many more**
+- 💬 Ask me about **Web Developement and Many more**
 
 - 📫 How to reach me **jineshn21@gmail.com**
 
