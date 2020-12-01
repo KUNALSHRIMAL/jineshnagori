@@ -16,7 +16,14 @@
 
 - 📫 How to reach me **jineshn21@gmail.com**
 
-- ⚡ Fun fact **...**
+- ⚡ My Work 👇
+
+----> <a href="https://xccuratesecurity.in/" target="_blank">Xccurate Security</a> (Recently Completed) <br>
+----> <a href="https://www.freebookpost.ml/" target="_blank">FreeBookPost</a> (Completed on Nov 2020) <br>
+----> <a href="https://www.betaprogrammer.ml/" target="_blank">Beta Programmer</a> (Completed on Oct 2020) <br>
+----> <a href="http://www.healthcare-funds.ml/" target="_blank">Funny Game</a> (Completed on Sept 2020) <br>
+----> <a href="http://codevic.epizy.com/" target="_blank">Codevic</a> (Completed on June 2020) <br>
+----> <a href="https://github.com/jineshnagori/onlinequizportal/" target="_blank">Online Quiz Portal</a> (Completed on April 2020)
 
 ### Connect with me:
 
