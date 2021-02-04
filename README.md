@@ -1,7 +1,7 @@
 <p align="center">
 <a href="#"><img title="FROM INDIA" src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
 </p>
-<h1 align="center">Hi 👋, I'm Jinesh Nagori</h1>
+<h1 align="center">Hi 👋, I'm kunalshrimal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 
@@ -9,12 +9,9 @@
 - 🔭 I’m currently working on **My Personal Project.**
 
 - 🌱 I’m currently learning **Everything** 🤣
-
-- 👯 I’m looking to collaborate on **Instagram**
-
 - 💬 Ask me about **Web Developement and Many more**
 
-- 📫 How to reach me **jineshn21@gmail.com**
+- 📫 How to reach me **kunalshrimal86@gmail.com**
 
 - ⚡ My Work 👇
 
